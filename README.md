@@ -1,6 +1,5 @@
 ![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/yousefhosny/Library/CloudStorage/Box-Box/codingCloud/100DevsBootcamp/1%20Projects/ModelViewController-MVC/img/MVC%20Presentation%20%281%29.png?version%3D1718805633824)
 
-
 ![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/yousefhosny/Downloads/MVC%20Presentation%20%282%29.png?version%3D1718805654584)
 
 
